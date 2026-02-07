@@ -10,7 +10,7 @@ A web-based time capsule where users can write a message for themselves or other
 
 ### Capsule Listing
 - **Future Capsules:** Only listed to the owner before the open date.
-- **Opened Capsules:** Publicly visible if the open date has passed.
+- **Opened Capsules:** Visible if the open date has passed.
 
 ### User Authentication
 - Login/Registration system with password hashing.
